@@ -16,5 +16,6 @@ Highlighted correlations between crime rates and socio-economic factors.
 
 Delivered actionable recommendations to aid law enforcement and policy planning.
 
-https://user-images.githubusercontent.com/63772910/175770155-e6122346-38d8-49e1-8609-a042cd6c1f69.png
+![crime analysis graph](https://github.com/user-attachments/assets/721dc802-c5c9-4d11-88c1-f98d4f54e848)
+
 
